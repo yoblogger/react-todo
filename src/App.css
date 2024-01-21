@@ -29,3 +29,6 @@
 .small {
   font-size: 0.75rem;
 }
+body {
+  font-family: Roboto, Helvetica, Arial, sans-serif;
+}
